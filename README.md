@@ -9,5 +9,7 @@
 visted nodes.
     - In simple environment, the JPS takes less time to find path.However in complex environment, sometimes JPS takes more time than A∗.
 - Running result:
- ![image](/image/complexenv.png)
+
+![image](/image/complexenv.png)
+
 - For more information, please check the report in this repo.
